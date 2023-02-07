@@ -49,32 +49,32 @@
       }
 ,
 {
-         "name": "VIP-ZCOM-01-TH-AIS",
+         "name": "ZCOM-01-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-01-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-01-TH-DTAC",
+         "name": "ZCOM-01-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-01-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-01-TH-TRUE",
+         "name": "ZCOM-01-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-01-TH-TRUE.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-02-TH-AIS",
+         "name": "ZCOM-02-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-02-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-02-TH-DTAC",
+         "name": "ZCOM-02-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-02-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-02-TH-TRUE",
+         "name": "ZCOM-02-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-02-TH-TRUE.ovpn"
       }
 
@@ -85,5 +85,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":1
+   "version":2
 }
