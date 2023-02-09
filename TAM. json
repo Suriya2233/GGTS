@@ -4,79 +4,56 @@
 
 
 {
-         "name": "FREE-HUAWEI-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-HUAWEI-01-TH-AIS.ovpn"
+         "name": "Dtac-VIP01",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d1.ovpn"
       }
 ,
 {
-         "name": "FREE-HUAWEI-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-HUAWEI-01-TH-DTAC.ovpn"
+         "name": "Dtac-VIP02",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d2.ovpn"
       }
 ,
 {
-         "name": "FREE-HUAWEI-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-HUAWEI-01-TH-TRUE.ovpn"
+         "name": "Dtac-VIP03",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d3.ovpn"
       }
 ,
 {
-         "name": "FREE-IRIS-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-AIS.ovpn"
+         "name": "Dtac-VIP04",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d4.ovpn"
       }
 ,
 {
-         "name": "FREE-IRIS-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-DTAC.ovpn"
+         "name": "Dtac-VIP05",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d4.ovpn"
       }
 ,
 {
-         "name": "FREE-IRIS-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-TRUE.ovpn"
+         "name": "True-VIP01",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t1.ovpn"
       }
 ,
 {
-         "name": "FREE-READY-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-READY-01-TH-AIS.ovpn"
+         "name": "True-VIP02",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t2.ovpn"
       }
 ,
 {
-         "name": "FREE-READY-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-READY-01-TH-DTAC.ovpn"
+         "name": "True-VIP03",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t3.ovpn"
       }
 ,
 {
-         "name": "FREE-READY-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-READY-01-TH-TRUE.ovpn"
+         "name": "True-VIP04",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t4.ovpn"
       }
 ,
 {
-         "name": "ZCOM-01-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-01-TH-AIS.ovpn"
+         "name": "True-VIP05",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t5.ovpn"
       }
-,
-{
-         "name": "ZCOM-01-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-01-TH-DTAC.ovpn"
-      }
-,
-{
-         "name": "ZCOM-01-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-01-TH-TRUE.ovpn"
-      }
-,
-{
-         "name": "ZCOM-02-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-02-TH-AIS.ovpn"
-      }
-,
-{
-         "name": "ZCOM-02-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-02-TH-DTAC.ovpn"
-      }
-,
-{
-         "name": "ZCOM-02-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-02-TH-TRUE.ovpn"
-      }
+
+
 
    ],
 "message":"
@@ -85,5 +62,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":2
+   "version":1
 }
