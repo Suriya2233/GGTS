@@ -4,47 +4,92 @@
 
 
 {
-         "name": "FREE-HUAWEI-TH-AIS",
+         "name": "FREE-01-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-HUAWEI-01-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-HUAWEI-TH-DTAC",
+         "name": "FREE-01-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-HUAWEI-01-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-HUAWEI-TH-TRUE",
+         "name": "FREE-01-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-HUAWEI-01-TH-TRUE.ovpn"
       }
 ,
 {
-         "name": "FREE-IRIS-TH-AIS",
+         "name": "FREE-02-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-IRIS-TH-DTAC",
+         "name": "FREE-02-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-IRIS-TH-TRUE",
+         "name": "FREE-02-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-TRUE.ovpn"
       }
 ,
 {
-         "name": "FREE-READY-TH-AIS",
+         "name": "FREE-03-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-READY-01-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-READY-TH-DTAC",
+         "name": "FREE-03-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-READY-01-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-READY-TH-TRUE",
+         "name": "FREE-03-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-READY-01-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-04-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-HUAWEI-01-TH-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-04-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-HUAWEI-01-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-04-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-HUAWEI-01-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-05-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-05-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-05-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-06-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-READY-01-TH-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-06-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-READY-01-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-06-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-READY-01-TH-TRUE.ovpn"
       }
 ,
@@ -110,10 +155,11 @@
 
    ],
 "message":"
-👑Update 09/2/2023
+❤️Update10/2/2023
+❤️ขอให้สนุกกับการใช้งานน้า
 
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":3
+   "version":4
 }
