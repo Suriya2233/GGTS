@@ -4,17 +4,32 @@
 
 
 {
-         "name": "FREE-ZCOM-TH-AIS",
+         "name": "FREE-ZCOM-01-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-01-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-ZCOM-TH-DTAC",
+         "name": "FREE-ZCOM-01-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-01-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-ZCOM-TH-TRUE",
+         "name": "FREE-ZCOM-01-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-01-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-ZCOM-02-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-01-TH-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-ZCOM-02-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-01-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-ZCOM-02-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-01-TH-TRUE.ovpn"
       }
 ,
@@ -170,11 +185,12 @@
 
    ],
 "message":"
-❤️Update11/2/2023
+❤️Update14/2/2023
+❤️NEW UP 1.11
 ❤️ขอให้สนุกกับการใช้งานน้า
 
 
-\n\nเวอร์ชั่นไฟล์:1",
+\n\nUpdate:1",
 "title":"New Update File" ,
-   "version":6
+   "version":7
 }
