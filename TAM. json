@@ -4,62 +4,32 @@
 
 
 {
-         "name": "FREE-ZCOM-01-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-01-TH-AIS.ovpn"
-      }
-,
-{
-         "name": "FREE-ZCOM-01-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-01-TH-DTAC.ovpn"
-      }
-,
-{
-         "name": "FREE-ZCOM-01-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-01-TH-TRUE.ovpn"
-      }
-,
-{
-         "name": "FREE-ZCOM-02-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-01-TH-AIS.ovpn"
-      }
-,
-{
-         "name": "FREE-ZCOM-02-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-01-TH-DTAC.ovpn"
-      }
-,
-{
-         "name": "FREE-ZCOM-02-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-01-TH-TRUE.ovpn"
-      }
-,
-{
-         "name": "FREE-ZCOM-03-TH-AIS",
+         "name": "FREE-READY-01-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-02-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-ZCOM-03-TH-DTAC",
+         "name": "FREE-READY-01-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-02-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-ZCOM-03-TH-TRUE",
+         "name": "FREE-READY-01-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-02-TH-TRUE.ovpn"
       }
 ,
 {
-         "name": "FREE-ZCOM-04-TH-AIS",
+         "name": "FREE-READY-02-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-02-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-ZCOM-04-TH-DTAC",
+         "name": "FREE-READY-02-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-02-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-ZCOM-04-TH-TRUE",
+         "name": "FREE-READY-02-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-02-TH-TRUE.ovpn"
       }
 ,
@@ -216,7 +186,7 @@
    ],
 "message":"
 ■■■■■■■■■■■■■■
-🔔Update 17/02/2566
+🔔Update 1.13
 ■■■■■■■■■■■■■■
 👑สนับสนุนค่ากับข้าวได้ที่
 📱ธนาคารกสิกรไทย:150-1-75672-1
@@ -238,5 +208,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":9
+   "version":10
 }
