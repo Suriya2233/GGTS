@@ -4,32 +4,32 @@
 
 
 {
-         "name": "FREE-READY-01-TH-AIS",
+         "name": "FREE-CSL-01-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-02-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-READY-01-TH-DTAC",
+         "name": "FREE-CSL-01-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-02-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-READY-01-TH-TRUE",
+         "name": "FREE-CSL-01-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-02-TH-TRUE.ovpn"
       }
 ,
 {
-         "name": "FREE-READY-02-TH-AIS",
+         "name": "FREE-CSL-02-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-02-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-READY-02-TH-DTAC",
+         "name": "FREE-CSL-02-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-02-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-READY-02-TH-TRUE",
+         "name": "FREE-CSL-02-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-VIP-02-TH-TRUE.ovpn"
       }
 ,
@@ -227,11 +227,55 @@
          "name": "VIP-ZCOM-04-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-04-TH-TRUE.ovpn"
       }
+{
+         "name": "VIP-READY-01-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-01-TH-AIS.ovpn"
+      }
+,
+{
+         "name": "VIP-READY-01-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-01-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "VIP-READY-01-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-01-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "VIP-READY-02-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-02-TH-AIS.ovpn"
+      }
+,
+{
+         "name": "VIP-READY-02-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-02-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "VIP-READY-02-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-02-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "VIP-ADMIN-01-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SURIYA-AIS.ovpn"
+      }
+,
+{
+         "name": "VIP-ADMIN-01-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SURIYA-DTAC.ovpn"
+      }
+,
+{
+         "name": "VIP-ADMIN-01-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SURIYA-TRUE.ovpn"
+      }
 
    ],
 "message":"
 ■■■■■■■■■■■■■■
-🔔Update 1.15
+🔔Update 1.16
 ■■■■■■■■■■■■■■
 📗Ais PRO AIS play
 📕True FREE NO pro
@@ -241,5 +285,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":12
+   "version":13
 }
