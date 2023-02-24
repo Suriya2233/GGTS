@@ -124,6 +124,51 @@
       }
 ,
 {
+         "name": "FREE-07-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-HUAWEI-01-TH-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-07-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-HUAWEI-01-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-07-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-HUAWEI-01-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-08-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-08-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-08-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-09-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-READY-01-TH-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-09-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-READY-01-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-09-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-READY-01-TH-TRUE.ovpn"
+      }
+,
+{
          "name": "VIP-ZCOM-01-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-01-TH-AIS.ovpn"
       }
@@ -186,7 +231,7 @@
    ],
 "message":"
 ■■■■■■■■■■■■■■
-🔔Update 1.14
+🔔Update 1.15
 ■■■■■■■■■■■■■■
 📗Ais PRO AIS play
 📕True FREE NO pro
@@ -196,5 +241,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":11
+   "version":12
 }
