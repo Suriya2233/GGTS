@@ -227,6 +227,7 @@
          "name": "VIP-ZCOM-04-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-04-TH-TRUE.ovpn"
       }
+,
 {
          "name": "VIP-READY-01-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-01-TH-AIS.ovpn"
@@ -272,10 +273,12 @@
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SURIYA-TRUE.ovpn"
       }
 
+
+
    ],
 "message":"
 ■■■■■■■■■■■■■■
-🔔Update 1.16
+🔔Update 1.17
 ■■■■■■■■■■■■■■
 📗Ais PRO AIS play
 📕True FREE NO pro
@@ -285,5 +288,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":13
+   "version":14
 }
