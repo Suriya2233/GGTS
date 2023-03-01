@@ -170,92 +170,62 @@
 ,
 {
          "name": "VIP-ZCOM-01-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-01-TH-AIS.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-AIS-01.ovpn"
       }
 ,
 {
          "name": "VIP-ZCOM-01-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-01-TH-DTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-DTAC-01.ovpn"
       }
 ,
 {
          "name": "VIP-ZCOM-01-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-01-TH-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-TRUE-01.ovpn"
       }
 ,
 {
          "name": "VIP-ZCOM-02-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-02-TH-AIS.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-AIS-02.ovpn"
       }
 ,
 {
          "name": "VIP-ZCOM-02-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-02-TH-DTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-DTAC-02.ovpn"
       }
 ,
 {
          "name": "VIP-ZCOM-02-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-02-TH-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-TRUE-02.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-03-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-03-TH-AIS.ovpn"
+         "name": "VIP-3BB-01-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-3BB-AIS-01.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-03-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-03-TH-DTAC.ovpn"
+         "name": "VIP-3BB-01-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-3BB-DTAC-01.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-03-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-03-TH-TRUE.ovpn"
+         "name": "VIP-3BB-01-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-3BB-TRUE-01.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-04-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-04-TH-AIS.ovpn"
+         "name": "VIP-3BB-02-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-3BB-AIS-02.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-04-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-04-TH-DTAC.ovpn"
+         "name": "VIP-3BB-02-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-3BB-DTAC-02.ovpn"
       }
 ,
 {
-         "name": "VIP-ZCOM-04-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-ZCOM-04-TH-TRUE.ovpn"
-      }
-,
-{
-         "name": "VIP-READY-01-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-01-TH-AIS.ovpn"
-      }
-,
-{
-         "name": "VIP-READY-01-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-01-TH-DTAC.ovpn"
-      }
-,
-{
-         "name": "VIP-READY-01-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-01-TH-TRUE.ovpn"
-      }
-,
-{
-         "name": "VIP-READY-02-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-02-TH-AIS.ovpn"
-      }
-,
-{
-         "name": "VIP-READY-02-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-02-TH-DTAC.ovpn"
-      }
-,
-{
-         "name": "VIP-READY-02-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-READY-02-TH-TRUE.ovpn"
+         "name": "VIP-3BB-02-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/VIP-3BB-TRUE-02.ovpn"
       }
 ,
 {
@@ -277,16 +247,15 @@
 
    ],
 "message":"
-■■■■■■■■■■■■■■
-🔔Update 1.17
-■■■■■■■■■■■■■■
-📗Ais PRO AIS play
-📕True FREE NO pro
-📘Dtac FREE NO pro
-■■■■■■■■■■■■■■
+■■■■■■■■■■■■■■■■■■■■■■■
+❤️ขอให้สนุกกับการใช้งานครับ
+🗜️เช่าvipติดต่อแอดมินเลยครับ
+📅เวลาทำการ 08:00-00:00น.
+📱เฟสบุ๊ค Suriya Soodsang
+■■■■■■■■■■■■■■■■■■■■■■■
 
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":14
+   "version":15
 }
