@@ -4,33 +4,33 @@
 
 
 {
-         "name": "FREE-IRIS-01-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-AIS.ovpn"
+         "name": "FREE-CSL-01-SG-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-IRIS-01-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-DTAC.ovpn"
+         "name": "FREE-CSL-01-SG-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-IRIS-01-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-TRUE.ovpn"
+         "name": "FREE-CSL-01-SG-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-TRUE.ovpn"
       }
 ,
 {
-         "name": "FREE-IRIS-02-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-AIS.ovpn"
+         "name": "FREE-CSL-02-SG-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-IRIS-02-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-DTAC.ovpn"
+         "name": "FREE-CSL-02-SG-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-IRIS-02-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-IRIS-01-TH-TRUE.ovpn"
+         "name": "FREE-CSL-02-SG-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-TRUE.ovpn"
       }
 
 
@@ -38,7 +38,6 @@
    ],
 "message":"
 
-❤️อัพเดทครั้งนี้เป็นการเริ่มต้นใหม่น้า
 🗜️มีปัญหาไดๆติดต่อแอดมินเลยครับ
 📅เวลาทำการ 08:00-00:00น.
 📱เฟสบุ๊ค Suriya Soodsang
@@ -47,5 +46,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":16
+   "version":17
 }
