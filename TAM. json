@@ -32,7 +32,21 @@
          "name": "FREE-CSL-02-SG-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-TRUE.ovpn"
       }
-
+,
+{
+         "name": "FREE-TEST-01-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-TEST-01-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-TEST-01-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-TRUE.ovpn"
+      }
 
 
    ],
@@ -46,5 +60,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":17
+   "version":18
 }
