@@ -4,61 +4,79 @@
 
 
 {
-         "name": "FREE-CSL-01-SG-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-AIS.ovpn"
+         "name": "FREE-ZCOM-01-SG-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-01-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-CSL-01-SG-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-DTAC.ovpn"
+         "name": "FREE-ZCOM-01-SG-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-01-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-CSL-01-SG-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-TRUE.ovpn"
+         "name": "FREE-ZCOM-01-SG-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-01-TRUE.ovpn"
       }
 ,
 {
-         "name": "FREE-CSL-02-SG-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-AIS.ovpn"
+         "name": "FREE-ZCOM-02-SG-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-02-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-CSL-02-SG-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-DTAC.ovpn"
+         "name": "FREE-ZCOM-02-SG-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-02-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-CSL-02-SG-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/SG-TRUE.ovpn"
+         "name": "FREE-ZCOM-02-SG-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-02-TRUE.ovpn"
       }
 ,
 {
-         "name": "FREE-TEST-01-TH-AIS",
+         "name": "FREE-CAT-01-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-TEST-01-TH-DTAC",
+         "name": "FREE-CAT-01-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-TEST-01-TH-TRUE",
+         "name": "FREE-CAT-01-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-CAT-02-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-CAT-02-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-CAT-02-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-TRUE.ovpn"
       }
 
 
    ],
 "message":"
+❗รายการ
+🌍เพิ่มเซิร์ฟZCOM-SG 01-02
 
 🗜️มีปัญหาไดๆติดต่อแอดมินเลยครับ
 📅เวลาทำการ 08:00-00:00น.
+❗หลังจากเวลานี้แอดมินนอนนะ555
 📱เฟสบุ๊ค Suriya Soodsang
 ❤️ขอให้สนุกกับการใช้งานครับ
 
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":18
+   "version":19
 }
