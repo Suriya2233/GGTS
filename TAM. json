@@ -35,40 +35,41 @@
 ,
 {
          "name": "FREE-CAT-01-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-AIS.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/CAT-TH-AIS.ovpn"
       }
 ,
 {
          "name": "FREE-CAT-01-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-DTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/CAT-TH-DTAC.ovpn"
       }
 ,
 {
          "name": "FREE-CAT-01-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/CAT-TH-TRUE.ovpn"
       }
 ,
 {
-         "name": "FREE-CAT-02-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-AIS.ovpn"
+         "name": "FREE-CSL-01-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/CSL-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-CAT-02-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-DTAC.ovpn"
+         "name": "FREE-CSL-01-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/CSL-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-CAT-02-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-TRUE.ovpn"
+         "name": "FREE-CSL-01-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/CSL-TH-TRUE.ovpn"
       }
 
 
    ],
 "message":"
-❗รายการ
-🌍เพิ่มเซิร์ฟZCOM-SG 01-02
+❗รายการแก้ไข
+🌍เพิ่มเซิร์ฟ CSL-01
 
+🧃รองรับผู้ใช้งานทั้งหมด 800 ท่าน
 🗜️มีปัญหาไดๆติดต่อแอดมินเลยครับ
 📅เวลาทำการ 08:00-00:00น.
 ❗หลังจากเวลานี้แอดมินนอนนะ555
@@ -78,5 +79,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":19
+   "version":20
 }
