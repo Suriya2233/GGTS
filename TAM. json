@@ -34,50 +34,64 @@
       }
 ,
 {
-         "name": "FREE-CAT-01-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/CAT-TH-AIS.ovpn"
+         "name": "FREE-OVH-01-SG-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/OVH-SG-01-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-CAT-01-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/CAT-TH-DTAC.ovpn"
+         "name": "FREE-OVH-01-SG-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/OVH-SG-01-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-CAT-01-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/CAT-TH-TRUE.ovpn"
+         "name": "FREE-OVH-01-SG-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/OVH-SG-01-TRUE.ovpn"
       }
 ,
 {
-         "name": "FREE-CSL-01-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/CSL-TH-AIS.ovpn"
+         "name": "FREE-READY-01-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/READY-TH-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-CSL-01-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/CSL-TH-DTAC.ovpn"
+         "name": "FREE-READY-01-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/READY-TH-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-CSL-01-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/CSL-TH-TRUE.ovpn"
+         "name": "FREE-READY-01-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/READY-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "FREE-READY-02-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/READY-TH-AIS.ovpn"
+      }
+,
+{
+         "name": "FREE-READY-02-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/READY-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": "FREE-READY-02-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/READY-TH-TRUE.ovpn"
       }
 
 
    ],
 "message":"
 ❗รายการแก้ไข
-🌍เพิ่มเซิร์ฟ CSL-01
+🌍เพิ่มเซิร์ฟ FREE-OVH-01
 
-🧃รองรับผู้ใช้งานทั้งหมด 800 ท่าน
-🗜️มีปัญหาไดๆติดต่อแอดมินเลยครับ
-📅เวลาทำการ 08:00-00:00น.
-❗หลังจากเวลานี้แอดมินนอนนะ555
+📖แอพสรางมาเพื่อใช้ในการศึกษา
+🎥ดูหนัง ฟังเพลง เล่นโซเชี่ยล
+🎮แนะนำเกมส์ที่ไม่ใช้เน็ตมากนะครับ
 📱เฟสบุ๊ค Suriya Soodsang
 ❤️ขอให้สนุกกับการใช้งานครับ
 
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":20
+   "version":21
 }
