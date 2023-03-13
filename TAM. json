@@ -19,17 +19,17 @@
       }
 ,
 {
-         "name": "FREE-OPENLAND-01-TH-AIS",
+         "name": "VIP-OPENLAND-01-TH-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/openland-ais.ovpn"
       }
 ,
 {
-         "name": "FREE-OPENLAND-01-TH-DTAC",
+         "name": "VIP-OPENLAND-01-TH-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/openland-dtac.ovpn"
       }
 ,
 {
-         "name": "FREE-OPENLAND-01-TH-TRUE",
+         "name": "VIP-OPENLAND-01-TH-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/openland-true.ovpn"
       }
 
