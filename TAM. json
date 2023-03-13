@@ -4,85 +4,40 @@
 
 
 {
-         "name": "FREE-ZCOM-01-SG-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-01-AIS.ovpn"
+         "name": "FREE-01-SG-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-ZCOM-01-SG-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-01-DTAC.ovpn"
+         "name": "FREE-01-SG-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-ZCOM-01-SG-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-01-TRUE.ovpn"
+         "name": "FREE-01-SG-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TRUE.ovpn"
       }
 ,
 {
-         "name": "FREE-ZCOM-02-SG-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-02-AIS.ovpn"
+         "name": "FREE-OPENLAND-01-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/openland-ais.ovpn"
       }
 ,
 {
-         "name": "FREE-ZCOM-02-SG-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-02-DTAC.ovpn"
+         "name": "FREE-OPENLAND-01-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/openland-dtac.ovpn"
       }
 ,
 {
-         "name": "FREE-ZCOM-02-SG-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/ZCOM-SG-02-TRUE.ovpn"
-      }
-,
-{
-         "name": "FREE-OVH-01-SG-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/OVH-SG-01-AIS.ovpn"
-      }
-,
-{
-         "name": "FREE-OVH-01-SG-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/OVH-SG-01-DTAC.ovpn"
-      }
-,
-{
-         "name": "FREE-OVH-01-SG-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/OVH-SG-01-TRUE.ovpn"
-      }
-,
-{
-         "name": "FREE-READY-01-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/READY-TH-AIS.ovpn"
-      }
-,
-{
-         "name": "FREE-READY-01-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/READY-TH-DTAC.ovpn"
-      }
-,
-{
-         "name": "FREE-READY-01-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/READY-TH-TRUE.ovpn"
-      }
-,
-{
-         "name": "FREE-READY-02-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/READY-TH-AIS.ovpn"
-      }
-,
-{
-         "name": "FREE-READY-02-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/READY-TH-DTAC.ovpn"
-      }
-,
-{
-         "name": "FREE-READY-02-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/READY-TH-TRUE.ovpn"
+         "name": "FREE-OPENLAND-01-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/openland-true.ovpn"
       }
 
 
    ],
 "message":"
-❗รายการแก้ไข
-🌍เพิ่มเซิร์ฟ FREE-OVH-01
+เช่าvipติดต่อแอดมินเลยครับ
+เฟสบุ๊ค Suriya Soodsang
 
 📖แอพสรางมาเพื่อใช้ในการศึกษา
 🎥ดูหนัง ฟังเพลง เล่นโซเชี่ยล
@@ -93,5 +48,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":21
+   "version":22
 }
