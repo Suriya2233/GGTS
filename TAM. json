@@ -4,18 +4,33 @@
 
 
 {
-         "name": "FREE-01-SG-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/AIS.ovpn"
+         "name": "FREE-01-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-FREE.ovpn"
       }
 ,
 {
-         "name": "FREE-01-SG-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/DTAC.ovpn"
+         "name": "FREE-01-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-FREE.ovpn"
       }
 ,
 {
-         "name": "FREE-01-SG-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TRUE.ovpn"
+         "name": "FREE-01-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-FREE.ovpn"
+      }
+,
+{
+         "name": "FREE-02-TH-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-FREE.ovpn"
+      }
+,
+{
+         "name": "FREE-02-TH-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-FREE.ovpn"
+      }
+,
+{
+         "name": "FREE-02-TH-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-FREE.ovpn"
       }
 ,
 {
@@ -48,5 +63,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":23
+   "version":24
 }
