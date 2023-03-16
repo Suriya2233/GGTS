@@ -5,32 +5,32 @@
 
 {
          "name": "FREE-01-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-FREE.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-TH-01-AIS.ovpn"
       }
 ,
 {
          "name": "FREE-01-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-FREE.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-TH-01-DTAC.ovpn"
       }
 ,
 {
          "name": "FREE-01-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-FREE.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-TH-01-TRUE.ovpn"
       }
 ,
 {
          "name": "FREE-02-TH-AIS",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-FREE.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-TH-02-AIS.ovpn"
       }
 ,
 {
          "name": "FREE-02-TH-DTAC",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-FREE.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-TH-02-DTAC.ovpn"
       }
 ,
 {
          "name": "FREE-02-TH-TRUE",
-         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/TH-FREE.ovpn"
+         "url": "https://raw.githubusercontent.com/Suriya2233/GGTS/main/FREE-TH-02-TRUE.ovpn"
       }
 ,
 {
@@ -51,17 +51,17 @@
 
    ],
 "message":"
-เช่าvipติดต่อแอดมินเลยครับ
-เฟสบุ๊ค Suriya Soodsang
-
-📖แอพสรางมาเพื่อใช้ในการศึกษา
-🎥ดูหนัง ฟังเพลง เล่นโซเชี่ยล
-🎮แนะนำเกมส์ที่ไม่ใช้เน็ตมากนะครับ
-📱เฟสบุ๊ค Suriya Soodsang
-❤️ขอให้สนุกกับการใช้งานครับ
+🇹🇭VIP-OPENLAND-TH
+(ใช้งานทั่วไป+เกมส์ที่ไม่ใช้เน็ตมาก)
+📣รองรับการใช้งานทุกเครือข่าย
+(AIS/DTAC/TRUE)
+1วัน=1.44 บาท
+7วัน=9.44 บาท
+15วัน=24 บาท
+30วัน=44 บาท
 
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":25
+   "version":26
 }
